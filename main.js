@@ -27,5 +27,10 @@ if (i != 0) {
    else if (i%5 == 0) <-- Instead if i / 5 and the reminder is 0 then...
   console.log("Buzz") <-- then print the string
   
+  else { <-- Instead do this 
+  In other words if all is not true then do this
+  
+  KTK27 
+  */
   
   
